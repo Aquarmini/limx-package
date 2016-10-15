@@ -17,7 +17,7 @@ $config = [
     'root' => __DIR__,
     // 需要打包的相对文件夹
     'files' => [
-        'vendor',
+        '/',
     ],
     // 复制后的文件地址
     // 样例地址 E:\phpStudy\WWW\zips\laravel
