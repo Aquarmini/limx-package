@@ -11,11 +11,5 @@
     "require": {
         "php": ">=5.4.0",
         "limingxinleo/limx-func": "~2.0"
-    },
-    "repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        }
     }
 }
